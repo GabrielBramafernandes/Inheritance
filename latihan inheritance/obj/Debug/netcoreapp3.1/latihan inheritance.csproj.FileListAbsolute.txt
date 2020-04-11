@@ -1,0 +1,13 @@
+C:\Users\windows 10\Documents\SEMESTER 2\New folder\latihan inheritance\latihan inheritance\obj\Debug\netcoreapp3.1\latihan inheritance.csprojAssemblyReference.cache
+C:\Users\windows 10\Documents\SEMESTER 2\New folder\latihan inheritance\latihan inheritance\obj\Debug\netcoreapp3.1\latihan inheritance.csproj.CoreCompileInputs.cache
+C:\Users\windows 10\Documents\SEMESTER 2\New folder\latihan inheritance\latihan inheritance\obj\Debug\netcoreapp3.1\latihan inheritance.AssemblyInfoInputs.cache
+C:\Users\windows 10\Documents\SEMESTER 2\New folder\latihan inheritance\latihan inheritance\obj\Debug\netcoreapp3.1\latihan inheritance.AssemblyInfo.cs
+C:\Users\windows 10\Documents\SEMESTER 2\New folder\latihan inheritance\latihan inheritance\bin\Debug\netcoreapp3.1\latihan inheritance.exe
+C:\Users\windows 10\Documents\SEMESTER 2\New folder\latihan inheritance\latihan inheritance\bin\Debug\netcoreapp3.1\latihan inheritance.deps.json
+C:\Users\windows 10\Documents\SEMESTER 2\New folder\latihan inheritance\latihan inheritance\bin\Debug\netcoreapp3.1\latihan inheritance.runtimeconfig.json
+C:\Users\windows 10\Documents\SEMESTER 2\New folder\latihan inheritance\latihan inheritance\bin\Debug\netcoreapp3.1\latihan inheritance.runtimeconfig.dev.json
+C:\Users\windows 10\Documents\SEMESTER 2\New folder\latihan inheritance\latihan inheritance\bin\Debug\netcoreapp3.1\latihan inheritance.dll
+C:\Users\windows 10\Documents\SEMESTER 2\New folder\latihan inheritance\latihan inheritance\bin\Debug\netcoreapp3.1\latihan inheritance.pdb
+C:\Users\windows 10\Documents\SEMESTER 2\New folder\latihan inheritance\latihan inheritance\obj\Debug\netcoreapp3.1\latihan inheritance.dll
+C:\Users\windows 10\Documents\SEMESTER 2\New folder\latihan inheritance\latihan inheritance\obj\Debug\netcoreapp3.1\latihan inheritance.pdb
+C:\Users\windows 10\Documents\SEMESTER 2\New folder\latihan inheritance\latihan inheritance\obj\Debug\netcoreapp3.1\latihan inheritance.genruntimeconfig.cache
